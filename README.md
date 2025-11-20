@@ -1,5 +1,5 @@
 Without showing the login and password in the feature file, log in to the application.
-Steps to log in to the application using the Background keyword:
+Steps to log in to the application
 - Create a Factory Design Pattern.
 - Create a ConfigReader class and add the config.properties path.
 - Call the ConfigReader method in the @Before hook annotation.
